@@ -1,0 +1,36 @@
+.container-fluid {
+    background-color: lightseagreen;
+    padding: 5px;
+}
+
+.navbar{
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+body {
+    background-image: url(code4.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.carouss {
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.allcard {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin-top: 250px;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+    background-color: lightseagreen;
+}

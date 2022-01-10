@@ -1,0 +1,37 @@
+.container-fluid {
+    background-color: lightseagreen;
+    padding: 5px;
+}
+
+.navbar{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 5%;
+    background-color: lightseagreen;
+    color: lightseagreen;
+}
+
+h2 {
+    color: lightseagreen;
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+    font-size: xx-large;
+}
+
+.btn {
+    color: white;
+    background-color: lightseagreen;
+}
+
+body {
+    background-image: url("code.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
